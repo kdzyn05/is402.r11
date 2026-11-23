@@ -1,6 +1,6 @@
 # Mã màn hình demo v2 dùng cho kiểm thử
 
-Danh sách mã trích từ commit nguồn `4b8aa3c5e4b8125063d8f43b7fdb366c66eb3285`. Không kèm ghi chú nội bộ.
+Danh sách mã trích từ commit nguồn `874bc7e3c6dd617a0887b879ed3cc483d2a4d3ea`. Không kèm ghi chú nội bộ.
 
 | Mã màn |
 | --- |
